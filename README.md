@@ -1,7 +1,7 @@
 # remoteCS612
 
-#I'm on a branch
+I'm on a branch
 
-##test
-##test
-##test
+## clone
+## push 
+## commit 
